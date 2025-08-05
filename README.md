@@ -7,9 +7,7 @@
 ### 🧠 About Me
 
 Welcome to my corner of GitHub — a space where I explore ideas, grow skills, and let creativity thrive.  
-I'm passionate about using tech to solve real-world problems while bringing energy, curiosity, and a creative spark to every line of code.  
-As a former Division I athlete, I thrive on collaboration, consistency, and pushing limits.  
-This page reflects my journey: part tech, part art, all heart.
+I'm passionate about using tech to solve real-world problems while bringing energy, curiosity, and a creative spark to every line of code. As a former Division I athlete, I thrive on collaboration, consistency, and pushing limits. This page reflects my journey: part tech, part art, all heart.
 
 ---
 
